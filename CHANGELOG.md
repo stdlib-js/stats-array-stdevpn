@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`0fd3a03`](https://github.com/stdlib-js/stdlib/commit/0fd3a037ad4b606f6bca2242cb8d3352ffb3363c) - **bench:** refactor to use string interpolation in `stats/array/stdevpn` [(#10791)](https://github.com/stdlib-js/stdlib/pull/10791) _(by Aniket Sonawane)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aniket Sonawane
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
